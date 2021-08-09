@@ -51,13 +51,13 @@ title: DLog
 description:
 # blog home에 표시될 blog에 대한 전반적인 설명.
 
-cover: assets/built/images/blog-cover.png
+cover: assets/images/blog-cover.png
 # blog home에 표시될 blog cover image.
 
 logo:
 logo_dark:
 
-favicon: assets/built/images/favicon.jpg
+favicon: assets/images/favicon.jpg
 # favicon으로 사용할 image/
 
 production_url: https://proverbs0406.github.io/
@@ -141,13 +141,3 @@ exclude:
   - vendor
   - .travis.yml
   - node_modules
-  - assets/css
-  - assets/images
-  - _posts/angular
-  - _posts/et-cetera
-  - _posts/python
-  - _posts/typescript
-  #  - _posts/jekyll
-  - _posts/iot
-  - _posts/r
-  - _posts/economy
