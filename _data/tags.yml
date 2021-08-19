@@ -10,3 +10,7 @@ java:
   name: java
   description: False
   cover: False
+frp:
+  name: frp
+  description: False
+  cover: False
